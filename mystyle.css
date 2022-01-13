@@ -3,8 +3,10 @@ body {
 	}
 .question { 
 	font-weight: bold;
+	color: white;
 	}
 .answer {
 	font-style: italic;
+	color: white;
 	}
 
