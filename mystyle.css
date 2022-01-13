@@ -1,12 +1,10 @@
-<style>
-			body {
-			 background-image: url("Studio.png");
-			}
-			.question { 
-                	font-weight: bold;
-            		}
-            
-            		.answer {
-                	font-style: italic;
-            		}
-</style>
+body {
+	background-image: url("Studio.png");
+	}
+.question { 
+	font-weight: bold;
+	}
+.answer {
+	font-style: italic;
+	}
+
